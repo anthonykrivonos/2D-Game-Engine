@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>PhysicsEditorJC</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>PhysicsEditorJC</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Environment</path>
+			</folderitem>
+			<folderitem>
+				<path>Landscapes</path>
+			</folderitem>
+			<folderitem>
+				<path>Objects</path>
+			</folderitem>
+			<folderitem>
+				<path>Sprites</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Environment\TheWorld.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Environment\Controls.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

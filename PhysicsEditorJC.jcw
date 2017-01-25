@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PhysicsEditorJC</label>
+		<id>52</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>PhysicsEditorJC.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PhysicsEditorJC\PhysicsEditorJC.jcp</path>
+		</project>
+	</projects>
+</workspace>
